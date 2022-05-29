@@ -2,7 +2,7 @@
 
 const generateResult = () =>{
     const results = ['rock','paper','scissors']
-    const resultKey = Math.floor(Math.random * 3 )
+    const resultKey = Math.floor(Math.random() * 3 )
     return results[resultKey]
 }
 

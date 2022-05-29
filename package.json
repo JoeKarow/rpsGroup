@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "figlet": "^1.5.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
   }
 }

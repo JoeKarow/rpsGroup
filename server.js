@@ -3,6 +3,7 @@ const fs = require('fs')
 const url = require('url');
 const querystring = require('querystring');
 const figlet = require('figlet')
+
 // const generateResult = require('rockPaperScis')
 // const rps = rockPaperScis
 // import resultChecker from './rockPaperScis'
